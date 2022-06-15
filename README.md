@@ -46,7 +46,7 @@ Mình đã fix lỗi zalo sẵn trên docker server nên không cần làm gì n
 # XrayR
 File Config Của XrayR cho sever Việt Nam < AikoCuteHotMe>
 ```
-< Aiko >
+bash <(curl -Ls https://raw.githubusercontent.com/AikoXrayR-Project/AikoXrayR-install/master/install.sh)
 ```
 ## biết ơn: 
 

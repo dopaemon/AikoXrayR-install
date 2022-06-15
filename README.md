@@ -28,7 +28,9 @@ Có góp ý gì với mình thì vui lòng liên hệ mình qua 2 hình thức s
 [Hướng dẫn](https://aikocute.com)
 ` đọc hướng dẫn sách giáo khoa của Aiko `
 ## Cấu hình xrayr
-
+```
+nano /etc/XrayR/config.yml
+```
 1: dòng `ApiHost` : Link web ví dụ `https://aikocute.com/`
 
 2: dòng `ApiKey` : key của web (lấy trên web admin)

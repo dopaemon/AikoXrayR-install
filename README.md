@@ -40,6 +40,10 @@ nano /etc/XrayR/config.yml
 4: dòng `PanelType` : ví dụ `V2board`, `SSpanel`,... (chữ đầu viết hoa)
 
 5: dòng `devicelimit` : `SL` nhập số người mà bạn muốn sever chạy tối đa
+Thêm 
+```
+DisableSniffing: true
+```
 
 ```
 Mình đã fix lỗi zalo sẵn trên docker server nên không cần làm gì nữa nhé
